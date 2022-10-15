@@ -13,7 +13,7 @@ if user_input.isdigit():
     if user_input_num > 0:
         final_value = days_convertor(user_input_num)
         print(final_value)
-    elif user_input == 0:
+    elif user_input_num == 0:
         print("Number of days cannot be 0")
 else:
     print("The value entered is corrupt. Please enter a valid value for number of days")
