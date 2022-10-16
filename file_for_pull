@@ -1,3 +1,6 @@
 try pulling this file
 pull successful !!
 Now try pushing the file.
+Push has been successful.Now try making the changes in new branch and then merge back with original master branch.
+Let's add a few more lines to see the behaviour in diff command.
+We need to understand how the differences are visibile.
