@@ -6,4 +6,3 @@ Let's add a few more lines to see the behaviour in diff command.
 We need to understand how the differences are visibile.
 Great !! now let's try rollback.
 Added a few lines to rollback.
-Added a new line for revert
